@@ -79,6 +79,4 @@ Create a `.env` file in the `backend` directory and add the following variables:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License.
