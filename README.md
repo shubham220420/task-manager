@@ -1,4 +1,4 @@
-# TaskFyer
+# Task-Manager
 
 A full-stack task management application built with Next.js and Node.js, designed to help users organize and track their tasks efficiently.
 
@@ -31,7 +31,7 @@ A full-stack task management application built with Next.js and Node.js, designe
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd taskfyer
+   cd taskf-manager
    ```
 
 2. Install backend dependencies:
